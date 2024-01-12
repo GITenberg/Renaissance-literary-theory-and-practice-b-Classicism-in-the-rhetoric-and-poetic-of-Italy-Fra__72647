@@ -1,0 +1,34 @@
+_repo: Renaissance-literary-theory-and-practice-b-Classicism-in-the-rhetoric-and-poetic-of-Italy-Fra__72647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baldwin, Charles Sears
+    gutenberg_agent_id: '56767'
+    url: http://www.gutenberg.org/2009/agents/56767
+  editor:
+    agent_name: Clark, Donald Lemen
+    birthdate: 1888
+    deathdate: 1966
+    gutenberg_agent_id: '3327'
+    url: http://www.gutenberg.org/2009/agents/3327
+description: ''
+gutenberg_issued: '2024-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72647'
+language: en
+pgterms:marc904: http://archive.org/details/RenaissanceLiteraryTheoryAndPractice
+pgterms:marc905: 20120528171705baldwin
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Charlie Howard, C. S. Beers and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGloucester, MA :$bPeter Smith, $c1939, reprint 1959.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Renaissance literary theory and practice : $b Classicism in the rhetoric and
+  poetic of Italy, France, and England 1400-1600'
+url: http://www.gutenberg.org/ebooks/72647
