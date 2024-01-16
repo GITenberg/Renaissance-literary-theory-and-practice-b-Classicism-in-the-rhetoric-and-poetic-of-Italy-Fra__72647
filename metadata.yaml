@@ -1,5 +1,8 @@
 _repo: Renaissance-literary-theory-and-practice-b-Classicism-in-the-rhetoric-and-poetic-of-Italy-Fra__72647
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72647-h/images/cover.jpg
 creator:
   author:
     agent_name: Baldwin, Charles Sears
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '3327'
     url: http://www.gutenberg.org/2009/agents/3327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72647#Renaissance-literary-theory-and-practice-b-Classicism-in-the-rhetoric-and-poetic-of-Italy-Fra_
 gutenberg_issued: '2024-01-06'
 gutenberg_type: Text
 identifiers:
